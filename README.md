@@ -1,5 +1,12 @@
 <div align="center">
 
+<!-- glitch ASCII wordmark: python scripts/make_wordmark_glitch_svg.py "Jinay Ajmera" -->
+
+<img src="./wordmark-glitch.svg" width="860" alt="Jinay Ajmera — glitch-effect ASCII wordmark" />
+
+<br>
+<br>
+
 <!-- animated contribution graph: real data, boxes reveal cell by cell
      (regenerated daily by .github/workflows/update-profile-art.yml) -->
 
@@ -10,19 +17,11 @@
 <br>
 <br>
 
-<!-- ascii name (left) + streak/numbers card (right). both svgs are
-     840x880 so equal widths give equal heights.
-     name:  python scripts/make_name_ascii_svg.py "Jinay Ajmera"
-     stats: python scripts/render_stats_svg.py (same daily workflow) -->
+<!-- streak / numbers card (same daily workflow: python scripts/render_stats_svg.py) -->
 
-<h3><code>jinay@github ~ $ whoami</code></h3>
+<h3><code>jinay@github ~ $ ./stats.sh</code></h3>
 
-<table>
-<tr>
-<td valign="top"><img src="./name-ascii.svg" width="420" alt="Jinay Ajmera — ASCII name" /></td>
-<td valign="top"><img src="./stats.svg" width="420" alt="Jinay's GitHub streak and contribution stats — auto-refreshed daily" /></td>
-</tr>
-</table>
+<img src="./stats.svg" width="520" alt="Jinay's GitHub streak and contribution stats — auto-refreshed daily" />
 
 <br>
 <br>
