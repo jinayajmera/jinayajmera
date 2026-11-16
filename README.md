@@ -12,7 +12,7 @@
 
 <h3><code>jinay@github ~ $ ./contributions.sh</code></h3>
 
-<img src="./contrib-heatmap.svg" width="860" alt="Jinay's GitHub contribution graph — auto-refreshed daily" />
+<img src="https://raw.githubusercontent.com/jinayajmera/jinayajmera/output/contrib-heatmap.svg" width="860" alt="Jinay's GitHub contribution graph" />
 
 <br>
 <br>
@@ -21,7 +21,7 @@
 
 <h3><code>jinay@github ~ $ ./stats.sh</code></h3>
 
-<img src="./stats.svg" width="520" alt="Jinay's GitHub streak and contribution stats — auto-refreshed daily" />
+<img src="https://raw.githubusercontent.com/jinayajmera/jinayajmera/output/stats.svg" width="520" alt="Jinay's GitHub streak and contribution stats" />
 
 <br>
 <br>
